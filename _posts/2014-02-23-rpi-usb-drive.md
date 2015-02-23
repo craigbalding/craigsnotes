@@ -1,7 +1,7 @@
 ---
 title: RPi with USB external drive
 date: 2014-01-23 12:39
-layout: default
+layout: post
 tags: rpi
 ---
 
