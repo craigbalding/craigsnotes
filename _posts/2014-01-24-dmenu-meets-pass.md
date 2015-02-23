@@ -1,5 +1,5 @@
 ---
-title: dpass: dmenu meets pass
+title: "dpass: dmenu meets pass"
 date: 2014-01-24
 layout: post
 tags: [dmenu, pass]
