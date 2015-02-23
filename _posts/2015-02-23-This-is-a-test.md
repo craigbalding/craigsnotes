@@ -1,6 +1,6 @@
 ---
 title: This is a test
-layout: default
+layout: post
 published: false
 ---
 
