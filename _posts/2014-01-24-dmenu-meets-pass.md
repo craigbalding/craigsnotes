@@ -2,7 +2,7 @@
 title: dpass: dmenu meets pass
 date: 2014-01-24
 layout: post
-tags: dmenu,pass
+tags: [dmenu, pass]
 ---
 
 This post shows how to integrate cli based password manager with your favourite Window Manager on X Windows to make getting to your passwords quick and painless
