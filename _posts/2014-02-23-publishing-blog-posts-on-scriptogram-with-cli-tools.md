@@ -1,7 +1,7 @@
 ---
 date: 2014-01-23
 title: Publishing blog posts on scriptogram with cli tools
-layout: default
+layout: post
 tags: dropbox
 ---
 
