@@ -1,8 +1,5 @@
 ---
 published: false
----
-
----
 date: 2014-01-22 16:55
 title: "Hello World!"
 ---
