@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            "Craig's Notes"
 tagline:          from __past__ import tips
 url:              http://www.craigsnotes.net
-paginate:         1
+paginate:         5
 baseurl:          /
 author:
   name:           Craig Balding
