@@ -14,11 +14,9 @@ A quick peek at the markdown file:
     Date: 2014-01-23
     Title: Publishing blog posts on scriptogram with cli tools
 
-## To publish a post...
-
 Now upload to your linked dropbox (assumes you already did the first run dropbox_uploader.sh setup)
 
     [craigb@alarmpi ~]$ dropbox_uploader.sh upload scriptogram-cli.md Apps/scriptogram/posts/scriptogram-cli.md
-> Uploading "/home/craigb/scriptogram-cli.md" to "/Apps/scriptogram/posts/scriptogram-cli.md"... DONE
+    Uploading "/home/craigb/scriptogram-cli.md" to "/Apps/scriptogram/posts/scriptogram-cli.md"... DONE
 
 If you have autosync enabled on your scriptogram account, your website will be automagically regenerated and published. Otherwise login to scriptogram, go to the dashboard and click "synchronize".
