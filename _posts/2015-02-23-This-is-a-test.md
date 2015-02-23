@@ -1,7 +1,7 @@
 ---
 title: This is a test
 layout: default
-published: false
+published: true
 ---
 
 Here we go now
