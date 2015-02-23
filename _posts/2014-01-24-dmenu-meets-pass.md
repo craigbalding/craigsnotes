@@ -1,7 +1,7 @@
 ---
 title: dpass: dmenu meets pass
 date: 2014-01-24
-layout: default
+layout: post
 tags: dmenu,pass
 ---
 
