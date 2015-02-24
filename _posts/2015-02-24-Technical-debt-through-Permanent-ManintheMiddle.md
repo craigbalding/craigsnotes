@@ -3,7 +3,7 @@ title: Technical debt through Permanent Man-in-the-Middle
 layout: post
 published: true
 tags: intercept
-date: 2015-02-24 13:01
+date: 2015-02-24
 ---
 
 An astute observation on the technical debt and erosion of controls of on-going MitM (if not managed carefully):
