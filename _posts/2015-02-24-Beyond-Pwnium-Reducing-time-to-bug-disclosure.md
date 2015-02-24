@@ -3,7 +3,7 @@ title: Beyond Pwnium: Reducing time to bug disclosure
 layout: post
 published: true
 tags: disclosure
-date: 2015-02-24 23:02
+date: 2015-02-24
 ---
 
 The Google Security Team [announced they are expanding the Pwnium competition](http://googleonlinesecurity.blogspot.co.uk/2015/02/pwnium-v-never-ending-pwnium.html) to be an all year virtual event instead of  1 day, in-person event at CanSecWest:
