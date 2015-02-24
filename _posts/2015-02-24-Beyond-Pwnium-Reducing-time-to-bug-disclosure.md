@@ -1,5 +1,5 @@
 ---
-title: Beyond Pwnium: Reducing time to bug disclosure
+title: "Beyond Pwnium: Reducing time to bug disclosure"
 layout: post
 published: true
 tags: disclosure
