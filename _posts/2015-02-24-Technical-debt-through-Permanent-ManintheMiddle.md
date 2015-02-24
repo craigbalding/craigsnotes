@@ -5,7 +5,7 @@ published: true
 tags: intercept
 ---
 
-An astute observation on the technical debt and erosion of controls of on-going MitM (if not managed carefully):
+An astute observation on the technical debt and *undetected* erosion of controls of on-going MitM (if not managed carefully):
 
 >Facebook’s Richard says: “What all of these applications have in common is that they make people less secure through their use of an easily obtained root CA, they provide little information about the risks of the technology, and in some cases they are difficult to remove.
 
