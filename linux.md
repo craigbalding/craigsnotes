@@ -3,7 +3,7 @@ title: linux
 layout: page
 ---
 
-Linux specific notes and memory joggers.
+Linux specific notes, useful command lines and memory joggers.
 
 Kernel
 ------
