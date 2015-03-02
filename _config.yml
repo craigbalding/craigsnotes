@@ -10,6 +10,7 @@ relative_permalinks: true
 title:            "Craig's Notes"
 tagline:          from __past__ import tips
 url:              http://www.craigsnotes.net
+description:      "Notes and memory joggers with a focus on cyber security, tech, tools and interesting Internet finds."
 paginate:         5
 baseurl:          /
 author:
