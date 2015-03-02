@@ -1,6 +1,6 @@
 ---
 title: linux
-layout: default
+layout: page
 ---
 
 Linux specific notes and memory joggers.
