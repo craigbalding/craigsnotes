@@ -1,5 +1,5 @@
 ---
-title: linux
+title: "Linux notes"
 layout: page
 ---
 
