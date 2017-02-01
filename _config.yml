@@ -21,3 +21,5 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/craigbalding/craigsnotes.net
+
+theme: jekyll-theme-dinky
