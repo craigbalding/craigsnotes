@@ -22,4 +22,5 @@ version:          1.0.0
 github:
   repo:           https://github.com/craigbalding/craigsnotes.net
 
+gems: [jekyll-paginate]
 # theme: jekyll-theme-dinky
